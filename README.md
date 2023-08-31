@@ -1,2 +1,2 @@
-# solitaire
-![image](https://github.com/gabrielakpo/solitaire/assets/66737159/c4072f18-ace0-4bec-9a68-a5fc5d2fa8ed)
+# mineseeper
+![image](https://github.com/gabrielakpo/minesweeper/assets/66737159/6cb3771a-7eec-4910-a57f-1c5e22b63ed8)
